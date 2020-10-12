@@ -37,7 +37,7 @@ In your research or those three languages, what types of applications are each o
 
 
 Tooling Checklist:
-[] I have VS Code (or another test editor) installed.
+[] I have VS Code (or another text editor) installed.
 [] I am comfortable using Slack.
 [] I am comfortable using Zoom.
 [] I am comfortable using Slido
