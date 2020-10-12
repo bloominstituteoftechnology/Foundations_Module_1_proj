@@ -1,10 +1,11 @@
 Hello and welcome to the first module project of Lambda Foundations course!
 
-You made it to the second part! Now that we've explored some of the tools we use at Lambda, will be doing a little bit of self 
-exploration and exploring your computer. The following questions are meant to be answered by you in your text editor. You will 
-then save this file and upload it to Canvas. 
+You made it to the second part! Now that we've explored some of the tools we use at Lambda, 
+will be doing a little bit of self-exploration and exploring your computer. The following 
+questions are meant to be answered by you in your text editor. When you are complete follow the 
+instructions at the bottom of the page to submit this file to Canvas.
 
-[In Your Own Words]
+---------- In Your Own Words ----------
 Think about these questions and answer them in your own words:
 
 - What intrigues you most about being a software engineer?
@@ -13,14 +14,15 @@ Think about these questions and answer them in your own words:
 - What do you think will be the hardest part about learning to be a software engineer?
 [Your answer here]
 
-- If you could build any dream software application or project, or work on any exsisting product, what would it be?
+- If you could build any dream software application or project, or work on any existing product, what would it be?
 [Your answer here]
 
 
-[Self-Exploration]
-In this next section we would like you to do a little digging of your own. One of the most important skills in software developement
-is being able to track down the answer to a problem, or to learn something autonomously. Find the answers to these questions and answer 
-them here (don't worry, this is just an excersize, there are no right or wrong answers here).
+---------- Self-Exploration ----------
+In this next section, we would like you to do a little digging of your own. One of the most important skills 
+in software development is being able to track down the answer to a problem or to learn something autonomously. 
+Find the answers to these questions and answer them here (don't worry, this is just an exercise, there are no 
+right or wrong answers here).
 
 - What is the difference between a web application and a traditional desktop/native application?
 [Your answer here]
@@ -31,14 +33,30 @@ What is your favorite web application?
 What is a feature of your favorite web application that you think would be difficult to build?
 [Your answer here]
 
-Research and find the names of three computer programming languages. 
+Research and find the names of three computer programming languages (NOT HTML, CSS or Javascript). 
 In your research or those three languages, what types of applications are each of these languages best at, or used for?
 [Your answer here]
 
 
-Tooling Checklist:
+---------- Tooling Checklist ----------
+Go through this checklist and make sure you can check all of these boxes. 
+If you can't identify which areas you are struggling and ask for help!
+
 [] I have VS Code (or another text editor) installed.
 [] I am comfortable using Slack.
 [] I am comfortable using Zoom.
 [] I am comfortable using Slido
 [] I am comfortable using Canvas. 
+
+
+---------- Complete ----------
+
+When you have completed all of the above exersizes you are ready to turn your project in.
+To turn your project in:
+
+1. Navigate back to Canvas.
+2. Navigate to the "Module 1 Project" page.
+3. At the bottom of the page you will see a large box that says "Upload File".
+4. Click on this box and then find this file (project.txt) in your computers file structure.
+5. Select this file and upload it. You should see the green dot at the top of the page fill in and say "Submitted".
+6. You are all done!
