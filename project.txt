@@ -1,0 +1,44 @@
+Hello and welcome to the first module project of Lambda Foundations course!
+
+You made it to the second part! Now that we've explored some of the tools we use at Lambda, will be doing a little bit of self 
+exploration and exploring your computer. The following questions are meant to be answered by you in your text editor. You will 
+then save this file and upload it to Canvas. 
+
+[In Your Own Words]
+Think about these questions and answer them in your own words:
+
+- What intrigues you most about being a software engineer?
+[Your answer here]
+
+- What do you think will be the hardest part about learning to be a software engineer?
+[Your answer here]
+
+- If you could build any dream software application or project, or work on any exsisting product, what would it be?
+[Your answer here]
+
+
+[Self-Exploration]
+In this next section we would like you to do a little digging of your own. One of the most important skills in software developement
+is being able to track down the answer to a problem, or to learn something autonomously. Find the answers to these questions and answer 
+them here (don't worry, this is just an excersize, there are no right or wrong answers here).
+
+- What is the difference between a web application and a traditional desktop/native application?
+[Your answer here]
+
+What is your favorite web application?
+[Your answer here]
+
+What is a feature of your favorite web application that you think would be difficult to build?
+[Your answer here]
+
+Research and find the names of three computer programming languages. 
+In your research or those three languages, what types of applications are each of these languages best at, or used for?
+[Your answer here]
+
+
+Tooling Checklist:
+[] I have VS Code (or another test editor) installed.
+[] I am comfortable using Slack.
+[] I am comfortable using Zoom.
+[] I am comfortable using Slido
+[] I am comfortable using Canvas. 
